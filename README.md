@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Jan Paulus
+# Hi there 👋
 
 I'm a passionate software engineer focused on building **scalable, maintainable, and user-friendly software solutions**. I love turning complex problems into elegant code.
 
