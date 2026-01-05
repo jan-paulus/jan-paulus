@@ -2,6 +2,7 @@
 <a href="#"><img src="https://img.shields.io/badge/React-Expert-61dafb?logo=react" alt="React Expert"></a>
 <a href="#"><img src="https://img.shields.io/badge/Go-Enthusiast-00ADD8?logo=go" alt="Go Enthusiast"></a>
 <a href="#"><img src="https://img.shields.io/badge/Supabase-Enthusiast-3ECF8E?logo=supabase" alt="Supabase Enthusiast"></a>
+<a href="#"><img src="https://img.shields.io/badge/Linux-Enthusiast-3EA5CF?logo=linux" alt="Linux Enthusiast"></a>
 
 # Hi there 👋
 
